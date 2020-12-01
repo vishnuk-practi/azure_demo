@@ -1,1 +1,3 @@
 ##echo simple simple
+name="vishnu"
+bloodgroup="bombay"
